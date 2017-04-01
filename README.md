@@ -1,1 +1,2 @@
 # zaciname
+pokracujeme
